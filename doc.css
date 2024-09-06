@@ -1,0 +1,17 @@
+h2{
+    background-color: green;
+    width: 400px;
+    height: 400px;
+
+    border-top: 20px ridge blue;
+    border-right: 20px dotted black;
+    border-left: 20px dashed red;
+    border-bottom: 20px inset orange;
+
+    outline: 20px solid indigo;
+
+    margin: 40px;
+    padding: 50px;
+
+    box-shadow:inset 10px 20px 100px yellow;
+}
